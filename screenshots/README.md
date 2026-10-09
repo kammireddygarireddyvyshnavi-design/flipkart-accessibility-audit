@@ -1,11 +1,27 @@
 # Audit Screenshots
 
-Store screenshots documenting the accessibility audit.
+This folder contains evidence collected for the
+Flipkart Accessibility and Performance Audit.
 
-## Planned Evidence
+## Audit Evidence
 
-- Lighthouse audit results.
-- Keyboard navigation observations.
-- Verified accessibility issues.
+- Google PageSpeed Insights mobile audit screenshots.
+- Lighthouse performance results.
+- Accessibility audit findings.
 
-Add actual screenshots after completing the tests.
+## Audit Results
+
+- Performance: 46
+- Accessibility: 82
+- Best Practices: 96
+- SEO: 92
+
+## Evidence File
+
+[View Audit Screenshots PDF](Flipkart_Audit_Screenshots_PDF.pdf)
+
+## Additional Testing
+
+Keyboard navigation testing and manual verification
+of accessibility issues should be documented
+after the tests are completed.
